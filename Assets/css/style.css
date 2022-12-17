@@ -1,0 +1,142 @@
+body {
+  margin: 0;
+  text-align: center;
+  background: #000000;
+  font-family: "Raleway", sans-serif;
+}
+
+body * {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+.header {
+  margin-top:10px; 
+  width: 1280px;
+  height: 727px;
+  opacity: 1;
+}
+
+h1 {
+  font-size: 50px;
+  font: normal normal medium 50px/59px Raleway;
+  
+  margin-top: 7px;
+  margin-left: 530px;
+  font-weight: 300;
+  color: #fff;
+  width: 221px;
+  height: 59px;
+}
+
+h2 {
+  font-size: 2.5em;
+  font-weight: 300;
+  padding: 40px;
+}
+
+.iguana1 {
+  width: 399px;
+  height: 237px;
+}
+
+h2,
+p {
+  color: #ffffff;
+}
+
+.info {
+  font-size: 1em;
+  font-weight: 300;
+}
+
+.oscuro {
+  background: #1e1a13;
+  padding: 50px;
+}
+
+.descipccion {
+  text-align: center;
+  width: 100%;
+  padding-top: 45px;
+  padding-bottom: 20px;
+  font: normal 300 16px/19px Raleway;
+  letter-spacing: 0;
+  font-size: 16px;
+  display: flow-root;
+}
+
+.contenedor-info {
+  font-size: 16px;
+  padding: 4%;
+  width: 40%;
+  float: left;
+  text-align: left;
+}
+
+.content {
+  padding: 6%;
+}
+
+.contendor-caracteristicas {
+  text-align: center;
+  height: 348px;
+  background-color: #1e1a13;
+  padding: 1%;
+}
+
+.contenedor-caracteristica {
+  display: inline-block;
+  width: 15%;
+  padding: 1%;
+}
+
+.contenedor-caracteristica i {
+  color: #ffffff;
+  display: inline-block;
+  margin-bottom: 0.4em;
+}
+
+.contenedor-caracteristica p{
+    font: normal normal 300 24px/29px Raleway;
+}
+
+.contenedor-iguanas {
+  background-color: #1e1a13 opacity 0.96%;
+  padding: 60px;
+}
+
+.iguana {
+  display: inline-block;
+  justify-content: space-around;
+  margin-right: 1em;
+}
+
+.iguana img {
+  width: 316px;
+  height: 202px;
+}
+
+a:link,
+a:visited,
+a:active {
+    margin-bottom: 10px;
+  text-decoration: none;
+  font-weight: 300;
+}
+
+footer p{
+    font: normal normal 300 20px/24px Raleway;
+}
+
+footer i {
+    margin: 0 0.25em 0.5em 0.25em;
+    color: #fff;
+  }
+
+  .rrss{
+    margin-top: 20px;
+  }
+
+  
